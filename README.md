@@ -4,7 +4,7 @@
 
 Тест-кейсы: https://github.com/ottersgottaott/mobile/blob/main/Test_cases_shopping-list.pdf
 
-Отчет по результатам тестирования: https://github.com/ottersgottaott/mobile/blob/main/Test-Summary-.docx
+Отчет по результатам тестирования: (https://github.com/ottersgottaott/mobile/blob/main/Test-Summary-Report-by-KrisOvcharova.pages)
 
 Отчет о дефектах: https://github.com/ottersgottaott/mobile/blob/main/Bugs_shopping_list.numbers
 
