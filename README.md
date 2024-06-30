@@ -1,21 +1,21 @@
 # Тестирование мобильных приложений
-1. <a href= "https://docs.google.com/spreadsheets/d/1ifYfrOTQoIfbh832CdN85YsfQtOmwQWvIZAUcA1PuR0/edit?usp=sharing">Чек-лист</a>  
-
-   <p>  Было необходимо наполнить таблицу тестовыми данными для проверки полей "Логин" и "Пароль" на странице регистрации веб-приложения с учетом создания классов эквивалентности и граничных значений.</p>
+1. <a href= "https://docs.google.com/spreadsheets/d/1ifYfrOTQoIfbh832CdN85YsfQtOmwQWvIZAUcA1PuR0/edit?usp=sharing">Чек-лист для тестирования мобильного приложения.
+</a>  <p>     Было необходимо подготовить чек-лист мобильного приложения, которое представляет из себя список покупок. </p>
    
-2. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test_cases_shopping-list.pdf">Тест-кейсы</a>  
-
-   <p> Создание таблицы с двумя вкладками: исходные данные и тестируемые значения после применения алгоритма Pairwise.</p>
+2. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test_cases_shopping-list.pdf">Тест-кейсы для тестирования мобильного приложения "Список покупок".
+</a>  
    
-3. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test-Summary-Report-by-KrisOvcharova.pages">Отчет по результатам тестирования</a>  
-   <p> Создание таблицы принятия решений для тестирования модуля оплаты Paypal в веб-приложении.</p>
+3. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test-Summary-Report-by-KrisOvcharova.pages">Отчет по результатам тестирования.</a>  
+   <p> По результатам тестирования необходимо было создать отчет по результатам тестирования и использовать только те данные, которые были получены в рамках проведенного тестирования, например, количество запущенных кейсов и их результаты, общее число багов, классификация их по приоритетам и так далее.</p>
    
-4. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test%20run%20shopping%20list_Kristina%20Ovcharova.pdf">Тестовый прогон</a>  
-   <p> Создание таблицы принятия решений для тестирования модуля оплаты Paypal в веб-приложении.</p>
+4. <a href= "https://github.com/ottersgottaott/mobile/blob/main/Test%20run%20shopping%20list_Kristina%20Ovcharova.pdf">Прогон тест-кейсов на платформе QASE.</a>  
    
-5. <a href= "https://drive.google.com/file/d/1IUF-qlL8M6kQjmmB6v9nXtk02VKM43Qz/view?usp=sharing">Тестовый прогон</a>
+5. <a href= "https://drive.google.com/file/d/1IUF-qlL8M6kQjmmB6v9nXtk02VKM43Qz/view?usp=sharing">Задача по отработке перехвата трафика через Charles Proxy на эмуляторе.</a>
    
-   <p> .</p>
-7. <a href= "https://github.com/ottersgottaott/mobile/blob/main/header.png">Тестовый прогон</a>  
-   <p> .</p>
+   <p> Все действия со сниффером и браузером записаны на видео по ссылке. Были поставлены следующие задачи: 
+      <ul> 
+         <li> Добавьте несколько разных товаров в корзину,  отправьте запрос на удаление любого из них из корзины, но видоизмените его так, чтобы он удалил другой товар в веб-приложении "Интернет-магазин". </li>
+           <li>Смоделируйте ситуацию, при которой при обращении к веб-приложению "Интернет-магазин", пользователь увидит в браузере любую картинку. </li>
+      </ul></p>
+6. <a href= "https://github.com/ottersgottaott/mobile/blob/main/header.png">Скриншот любого перехваченного HTTPs-запроса с мобильного устройства. В header user-agent должна быть информация об устройстве.</a>  
 
